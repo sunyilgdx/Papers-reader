@@ -15,7 +15,15 @@ Update on **July. 12, 2020**.
 
 ## [K-Papers](#content)
 
-## [D-Papers](#content)
+## [D-Papers](#content) 
+1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
+
+2. **Task Refinement Learning for Improved Accuracy and Stability of Unsupervised Domain Adaptation** *ACL2019*  [[paper](https://www.aclweb.org/anthology/P19-1591.pdf)]
+
+3. **Unsupervised Domain Adaptation for Clinical Negation Detection** *BioNLP 2017* [[paper](https://www.aclweb.org/anthology/W17-2320.pdf)]
+
+4. **Domain Adaptive Training BERT for Response Selection** *arxiv 2019* [[paper](https://arxiv.org/abs/1908.04812)]
+
 
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
