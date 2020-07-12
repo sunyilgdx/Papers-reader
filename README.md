@@ -60,7 +60,13 @@ Update on **July. 12, 2020**.
 
 <img src="./images/Snipaste_2020-07-12_17-11-36.png" width="500"  alt="model structure"/><br/>
 
- 
+3. **Latent Retrieval for Weakly Supervised Open Domain Question Answering** *ACL 2019*  [[paper](https://arxiv.org/abs/1906.00300)]
+
+
+   **要点**
+    
+- 使用[CLS]位置的向量内积来检索文章
+
 ## [Others](#content)
 1. [BERT相关论文列表](https://www.ctolib.com/tomohideshibata-BERT-related-papers.html)
 2. [Must-read papers on KRL/KE](https://github.com/thunlp/KRLPapers)
