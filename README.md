@@ -65,3 +65,4 @@ Update on **July. 12, 2020**.
 1. [BERT相关论文列表](https://www.ctolib.com/tomohideshibata-BERT-related-papers.html)
 2. [Must-read papers on KRL/KE](https://github.com/thunlp/KRLPapers)
 3. [预训练词向量/句向量模型的精选列表](https://www.ctolib.com/Separius-awesome-sentence-embedding.html)
+4. [A Collection of BERT Papers](https://github.com/nslatysheva/BERT_papers)
