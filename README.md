@@ -66,3 +66,6 @@ Update on **July. 12, 2020**.
 2. [Must-read papers on KRL/KE](https://github.com/thunlp/KRLPapers)
 3. [预训练词向量/句向量模型的精选列表](https://www.ctolib.com/Separius-awesome-sentence-embedding.html)
 4. [A Collection of BERT Papers](https://github.com/nslatysheva/BERT_papers)
+5. [当BERT遇上知识图谱](https://blog.csdn.net/Kaiyuan_sjtu/article/details/102857555)
+6. [Dive into BERT：语言模型与知识](https://blog.csdn.net/Kaiyuan_sjtu/article/details/103073784)
+7. [AI赋能法律 | NLP最强之谷歌BERT模型在智能司法领域的实践浅谈](https://zhuanlan.zhihu.com/p/54934304)
