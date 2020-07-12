@@ -16,4 +16,5 @@ Update on **July. 12, 2020**.
 **要点**
 - 为了能够定位两个目标实体，并将其信息转移到BERT中，在将整个问题喂入BERT前，在目标实体前后添加token，亦即符号“$”和“#”;
 - 使用每个字符输入的相加平均值表示实体向量.
+
 <img src="./images/Snipaste_2020-07-12_15-35-43.png" width="600"  alt="model structure"/><br/>
