@@ -43,6 +43,7 @@ Update on **July. 12, 2020**.
     Authors: *Shanchan Wu, Yifan He*
 
 2. **Multiway Attention Networks for Modeling Sentence Pairs** *IJCAI 2018*  [[paper](https://pdfs.semanticscholar.org/2b32/b4fa1e28c256745f1573b5444b1b2c8df30e.pdf)]
+
 **要点**
 - 使用多种注意力机制
 <img src="./images/Snipaste_2020-07-12_17-11-36.png" width="600"  alt="model structure"/><br/>
