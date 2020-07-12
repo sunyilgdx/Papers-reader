@@ -1,7 +1,7 @@
 # Papers-reader
 Write down the papers I have read.
 
-A list of recent papers about **Knowledge-enhanced language model** (**KeLM**).
+A list of recent papers about **Knowledge-enhanced language model** and **Domain adaptation**.
 Update on **July. 12, 2020**.
 (We will continuously update this list.)
 
