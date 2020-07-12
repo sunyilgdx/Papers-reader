@@ -22,6 +22,7 @@ Update on **July. 12, 2020**.
 <img src="./images/Snipaste_2020-07-12_17-12-19.png" width="600"  alt="model structure"/><br/>
 
 2. **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations** *EMNLP 2019* [[paper](https://arxiv.org/abs/1909.10681)]
+<img src="./images/Snipaste_2020-07-12_17-48-04.png" width="600"  alt="model structure"/><br/>
 
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
