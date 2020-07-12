@@ -1,18 +1,21 @@
 # Papers-reader
 Write down the papers I have read.
 
-A list of recent papers about **Knowledge-enhanced language model** and **Domain adaptation**.
+A list of recent papers about **Knowledge-enhanced language model**(K-papers) and **Domain adaptation**(D-papers).
 Update on **July. 12, 2020**.
 (We will continuously update this list.)
 
 -------
 ## [Content](#content)
-1. [Papers](#survey-papers)
-2. [Related papers](#related-papers)
-3. [Others](#others)
+1. [K-Papers](#k-papers)
+2. [D-Papers](#d-papers)
+3. [Related papers](#related-papers)
+4. [Others](#others)
 
 
-## [Papers](#content)
+## [K-Papers](#content)
+
+## [D-Papers](#content)
 
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
