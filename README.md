@@ -43,6 +43,11 @@ Update on **July. 12, 2020**.
 
 7. **How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence** *ACL 2020* [[paper](https://arxiv.org/abs/2004.12158)]
 
+8. **Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks** *ACL 2020* [[paper](https://arxiv.org/pdf/2004.10964.pdf)]
+
+9. **Unsupervised Domain Clusters in Pretrained Language Models** *ACL 2020* [[paper](https://arxiv.org/pdf/2004.02105.pdf)]
+
+10. **Pretrained Transformers Improve Out-of-Distribution Robustness** *ACL 2020* [[paper](https://arxiv.org/abs/2004.06100)]
 
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
