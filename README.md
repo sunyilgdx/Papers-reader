@@ -86,3 +86,4 @@ Update on **July. 12, 2020**.
 7. [AI赋能法律 | NLP最强之谷歌BERT模型在智能司法领域的实践浅谈](https://zhuanlan.zhihu.com/p/54934304)
 8. [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ykp1xd)
 9. [从感知到认知：浅谈知识赋能自然语言处理](https://developer.aliyun.com/article/741285?spm=a2c6h.12873581.0.0.345f187aGFSGOQ)
+10. [CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/panchunguang/ccks_baidu_entity_link)
