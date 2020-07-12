@@ -54,6 +54,7 @@ Update on **July. 12, 2020**.
 **要点**
     
 - 使用多种注意力机制
+
 <img src="./images/Snipaste_2020-07-12_17-11-36.png" width="600"  alt="model structure"/><br/>
 
  
