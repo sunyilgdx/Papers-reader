@@ -14,6 +14,11 @@ Update on **July. 12, 2020**.
 
 
 ## [K-Papers](#content)
+1. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge**
+
+    Authors: *Todor Mihaylov, Anette Frank*
+    
+    Department: *Research Training Group AIPHES Department of Computational Linguistics, Heidelberg University Heidelberg, Germany*
 
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
@@ -26,7 +31,7 @@ Update on **July. 12, 2020**.
 
 5. **Learning to select data for transfer learning with Bayesian Optimization** *EMNLP 2017* [[paper](https://arxiv.org/abs/1707.05246) / [note](https://ruder.io/learning-select-data/index.html)]
 
-    Authors: *Sebastian Ruder, Barbara Plank*
+    Authors: *Sebastian Ruder, Barbara Plank* 
 
 6.  **Neural Transfer Learning for Natural Language Processing (PhD thesis)** *PhD 2019* [[paper](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) / [note](https://ruder.io/thesis/index.html)]
 
