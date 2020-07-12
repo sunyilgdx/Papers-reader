@@ -41,19 +41,19 @@ Update on **July. 12, 2020**.
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
     Authors: *Shanchan Wu, Yifan He*
-
-2. **Multiway Attention Networks for Modeling Sentence Pairs** *IJCAI 2018*  [[paper](https://pdfs.semanticscholar.org/2b32/b4fa1e28c256745f1573b5444b1b2c8df30e.pdf)]
-
-**要点**
-- 使用多种注意力机制
-<img src="./images/Snipaste_2020-07-12_17-11-36.png" width="600"  alt="model structure"/><br/>
-
-
-**要点**
+    
+   **要点**
 - 为了能够定位两个目标实体，并将其信息转移到BERT中，在将整个问题喂入BERT前，在目标实体前后添加token，亦即符号“$”和“#”;
 - 使用每个字符输入的相加平均值表示实体向量.
 
 <img src="./images/Snipaste_2020-07-12_15-35-43.png" width="600"  alt="model structure"/><br/>
+2. **Multiway Attention Networks for Modeling Sentence Pairs** *IJCAI 2018*  [[paper](https://pdfs.semanticscholar.org/2b32/b4fa1e28c256745f1573b5444b1b2c8df30e.pdf)]
+
+    **要点**
+- 使用多种注意力机制
+<img src="./images/Snipaste_2020-07-12_17-11-36.png" width="600"  alt="model structure"/><br/>
+
+ 
 
 ## [Others](#content)
 1. [BERT相关论文列表](https://www.ctolib.com/tomohideshibata-BERT-related-papers.html)
