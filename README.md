@@ -24,6 +24,8 @@ Update on **July. 12, 2020**.
 2. **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations** *EMNLP 2019* [[paper](https://arxiv.org/abs/1909.10681)]
 <img src="./images/Snipaste_2020-07-12_17-48-04.png" width="500"  alt="model structure"/><br/>
 
+3. **Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models** *arxiv 2020* [[paper](https://arxiv.org/abs/1908.06725)]
+
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
 
@@ -38,6 +40,8 @@ Update on **July. 12, 2020**.
     Authors: *Sebastian Ruder, Barbara Plank* 
 
 6.  **Neural Transfer Learning for Natural Language Processing (PhD thesis)** *PhD 2019* [[paper](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) / [note](https://ruder.io/thesis/index.html)]
+
+7. **How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence** *ACL 2020* [[paper](https://arxiv.org/abs/2004.12158)]
 
 
 ## [Related papers](#content)
@@ -75,3 +79,4 @@ Update on **July. 12, 2020**.
 5. [当BERT遇上知识图谱](https://blog.csdn.net/Kaiyuan_sjtu/article/details/102857555)
 6. [Dive into BERT：语言模型与知识](https://blog.csdn.net/Kaiyuan_sjtu/article/details/103073784)
 7. [AI赋能法律 | NLP最强之谷歌BERT模型在智能司法领域的实践浅谈](https://zhuanlan.zhihu.com/p/54934304)
+8. [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ykp1xd)
