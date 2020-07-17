@@ -87,3 +87,4 @@ Update on **July. 12, 2020**.
 8. [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ykp1xd)
 9. [从感知到认知：浅谈知识赋能自然语言处理](https://developer.aliyun.com/article/741285?spm=a2c6h.12873581.0.0.345f187aGFSGOQ)
 10. [CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/panchunguang/ccks_baidu_entity_link)
+11. [注意力机制的动力学机理是什么？](https://www.zhihu.com/question/340480781)
