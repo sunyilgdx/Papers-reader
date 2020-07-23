@@ -89,3 +89,4 @@ Update on **July. 12, 2020**.
 10. [CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/panchunguang/ccks_baidu_entity_link)
 11. [注意力机制的动力学机理是什么？](https://www.zhihu.com/question/340480781)
 12. [transformer和LSTM对比的设想？](https://www.zhihu.com/question/311377593?sort=created)
+13. [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
