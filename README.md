@@ -90,3 +90,5 @@ Update on **July. 12, 2020**.
 11. [注意力机制的动力学机理是什么？](https://www.zhihu.com/question/340480781)
 12. [transformer和LSTM对比的设想？](https://www.zhihu.com/question/311377593?sort=created)
 13. [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
+14. [记忆网络-Memory Network](https://zhuanlan.zhihu.com/c_129532277)
+15. [记忆网络之Gated End-to-End Memory Networks](https://zhuanlan.zhihu.com/p/30722242)
