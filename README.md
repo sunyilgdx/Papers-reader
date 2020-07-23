@@ -92,3 +92,4 @@ Update on **July. 12, 2020**.
 13. [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 14. [记忆网络-Memory Network](https://zhuanlan.zhihu.com/c_129532277)
 15. [记忆网络之Gated End-to-End Memory Networks](https://zhuanlan.zhihu.com/p/30722242)
+16. [论文导读：机器学习之课程式学习（Curriculum Learning）](https://zhuanlan.zhihu.com/p/114825029)
