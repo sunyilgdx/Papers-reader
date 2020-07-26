@@ -83,20 +83,20 @@ Update on **July. 12, 2020**.
     
 - DPR(Dense Passage Retriever) 稠密文章检索
 
-  训练 由于原始的BERT预训练模型很通用，而且得到的句向量是不具备相似性计算要求的，也就是说，相似的两句话输入BERT得到的两个向量并不一定很近。因此，本论文基于Natural Questions (NQ)，TriviaQA (Trivia)，WebQuestions (WQ)，CuratedTREC (TREC)，SQuAD v1.1等数据集重新训练了一个BERT，专门用来生成问题段落的句向量表示。
+      训练 由于原始的BERT预训练模型很通用，而且得到的句向量是不具备相似性计算要求的，也就是说，相似的两句话输入BERT得到的两个向量并不一定很近。因此，本论文基于Natural Questions (NQ)，TriviaQA (Trivia)，WebQuestions (WQ)，CuratedTREC (TREC)，SQuAD v1.1等数据集重新训练了一个BERT，专门用来生成问题段落的句向量表示。
   
 - 数据构造
   **负样本构造方法：**
   
-  Random：从语料中随机抽取；
+      Random：从语料中随机抽取；
   
-  BM25：使用BM25检索的不包含答案的段落；
+      BM25：使用BM25检索的不包含答案的段落；
   
-  Gold：训练集中其他问题的答案段落
+      Gold：训练集中其他问题的答案段落
   
   **正样本构造方法：**
   
-  因为数据集如TREC, WebQuestions 和 TriviaQA中只包含问题和答案，没有段落文本，因此，论文通过BM25算法，在Wikipedia中进行检索，取top-100的段落，如果答案没有在里面，则丢掉这个问题。对于 SQuAD 和 NQ数据集，同样使用问题在Wikipedia检索，如果检索到的正样本段落能够在数据集中匹配则留下，否则丢掉。
+        因为数据集如TREC, WebQuestions 和 TriviaQA中只包含问题和答案，没有段落文本，因此，论文通过BM25算法，在Wikipedia中进行检索，取top-100的段落，如果答案没有在里面，则丢掉这个问题。对于  SQuAD 和 NQ数据集，同样使用问题在Wikipedia检索，如果检索到的正样本段落能够在数据集中匹配则留下，否则丢掉。
 
 ## [Others](#content)
 1. [BERT相关论文列表](https://www.ctolib.com/tomohideshibata-BERT-related-papers.html)
