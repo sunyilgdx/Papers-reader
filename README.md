@@ -86,6 +86,7 @@ Update on **July. 12, 2020**.
       训练 由于原始的BERT预训练模型很通用，而且得到的句向量是不具备相似性计算要求的，也就是说，相似的两句话输入BERT得到的两个向量并不一定很近。因此，本论文基于Natural Questions (NQ)，TriviaQA (Trivia)，WebQuestions (WQ)，CuratedTREC (TREC)，SQuAD v1.1等数据集重新训练了一个BERT，专门用来生成问题段落的句向量表示。
   
 - 数据构造
+
   **负样本构造方法：**
   
       Random：从语料中随机抽取；
