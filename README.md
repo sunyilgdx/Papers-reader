@@ -26,6 +26,8 @@ Update on **July. 12, 2020**.
 
 3. **Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models** *arxiv 2020* [[paper](https://arxiv.org/abs/1908.06725)]
 
+4. **Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs** *EMNLP 2019* [[paper](https://arxiv.org/abs/1903.10245v4) / [code](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2019-AKGCM) / [note](https://mp.weixin.qq.com/s/THt88QskJUFLWtH6USftxw)]
+
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
 
