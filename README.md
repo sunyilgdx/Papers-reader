@@ -114,3 +114,4 @@ Update on **July. 12, 2020**.
 14. [记忆网络-Memory Network](https://zhuanlan.zhihu.com/c_129532277)
 15. [记忆网络之Gated End-to-End Memory Networks](https://zhuanlan.zhihu.com/p/30722242)
 16. [论文导读：机器学习之课程式学习（Curriculum Learning）](https://zhuanlan.zhihu.com/p/114825029)
+17. [融合知识的检索模型汇总（持续更新）](https://zhuanlan.zhihu.com/p/110371338)
