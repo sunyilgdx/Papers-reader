@@ -32,6 +32,10 @@ Update on **July. 12, 2020**.
 
 6. **Knowledge Graph-Augmented Abstractive Summarizationwith Semantic-Driven Cloze Reward** *ACL2020* [[paper](https://arxiv.org/pdf/2005.01159.pdf)]
 
+7. **Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering** *arxiv2020* [[paper](https://arxiv.org/abs/2005.00646) / [code](https://github.com/INK-USC/MHGRN)]
+
+8. **Enhancing Text-based Reinforcement Learning Agentswith Commonsense Knowledge** *arxiv2020* [[paper](https://arxiv.org/pdf/2005.00811.pdf)]
+
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
 
