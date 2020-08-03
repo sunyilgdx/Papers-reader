@@ -30,6 +30,8 @@ Update on **July. 12, 2020**.
 
 5. **Stepwise Reasoning for Multi-Relation Question Answering over Knowledge Grap** *WSDM2020* [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371812)]
 
+6. **Knowledge Graph-Augmented Abstractive Summarizationwith Semantic-Driven Cloze Reward** *ACL2020* [[paper](https://arxiv.org/pdf/2005.01159.pdf)]
+
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
 
