@@ -28,6 +28,8 @@ Update on **July. 12, 2020**.
 
 4. **Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs** *EMNLP 2019* [[paper](https://arxiv.org/abs/1903.10245v4) / [code](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2019-AKGCM) / [note](https://mp.weixin.qq.com/s/THt88QskJUFLWtH6USftxw)]
 
+5. **Stepwise Reasoning for Multi-Relation Question Answering over Knowledge Grap** *WSDM2020* [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371812)]
+
 ## [D-Papers](#content) 
 1. **Instance Weighting for Domain Adaptation via Trading off Sample Selection Bias and Variance** *IJCAI 2018*  [[paper](https://www.ijcai.org/Proceedings/2018/0624.pdf)]
 
