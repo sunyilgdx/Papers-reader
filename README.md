@@ -127,3 +127,4 @@ Update on **July. 12, 2020**.
 15. [记忆网络之Gated End-to-End Memory Networks](https://zhuanlan.zhihu.com/p/30722242)
 16. [论文导读：机器学习之课程式学习（Curriculum Learning）](https://zhuanlan.zhihu.com/p/114825029)
 17. [融合知识的检索模型汇总（持续更新）](https://zhuanlan.zhihu.com/p/110371338)
+18. [python可视化进阶---seaborn1.4 分布数据可视化 - 散点图 jointplot() / pairplot()](https://blog.csdn.net/qq_42554007/article/details/82625118)
