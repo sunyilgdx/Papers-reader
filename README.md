@@ -61,6 +61,8 @@ Update on **July. 12, 2020**.
 
 11. **NLP in FinTech Applications: Past, Present and Future** *arxiv2020* [[paper](https://arxiv.org/ftp/arxiv/papers/2005/2005.01320.pdf)]
 
+12. **Unsupervised Domain Adaptation of Contextualized Embeddings forSequence Labeling** *EMNLP 2019* [[paper](https://arxiv.org/abs/1904.02817)]
+
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
 
