@@ -70,6 +70,8 @@ Update on **July. 12, 2020**.
 
 16. **Domain Adaption for Knowledge Tracing** *arxiv2020* [[paper](https://arxiv.org/pdf/2001.04841.pdf)]
 
+17. **FinBERT 1.0** *github2020* [[code](https://github.com/valuesimplex/FinBERT)]
+
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
 
