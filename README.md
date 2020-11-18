@@ -72,6 +72,8 @@ Update on **July. 12, 2020**.
 
 17. **FinBERT 1.0** *github2020* [[code](https://github.com/valuesimplex/FinBERT)]
 
+18. **Multi-Specialty Domain Adaptation for Chinese Medical Named Entity Recognition** \[ paper? / [video](https://hub.baai.ac.cn/view/4094)\]
+
 ## [Related papers](#content)
 1. **Enriching Pre-trained Language Model with Entity Information for Relation Classification** *CIKM2019*. [[paper](https://arxiv.org/abs/1905.08284) / [note](https://blog.csdn.net/qq_36426650/article/details/96629835)]
 
